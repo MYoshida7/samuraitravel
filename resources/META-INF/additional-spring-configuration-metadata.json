@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "stripe.api-key",
+    "type": "java.lang.String",
+    "description": "A description for 'stripe.api-key'"
+  },
+  {
+    "name": "stripe.webhook-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'stripe.webhook-secret'"
+  },
+  {
+    "name": "stripe.webhook-secret",
+    "type": "java.lang.String",
+    "description": "A description for 'stripe.webhook-secret'"
+  }
+]}
